@@ -1,0 +1,1 @@
+# django_blogging_platofrm
